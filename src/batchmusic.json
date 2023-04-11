@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Men I Trust"},
+                  "SongTitle": {"S": "Tailwhip"},
+                  "AlbumTitle": {"S": "Oncle Jazz"},
+                  "SongYear": {"S": "2019"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": { "S": "Men I Trust" },
+                  "SongTitle": {"S": "I Hope To Be Around"},
+                  "AlbumTitle": {"S": "Oncle Jazz"},
+                  "SongYear": {"S": "2019"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "SALES"},
+                  "SongTitle": {"S": "Pope Is a Rockstar"},
+                  "AlbumTitle": {"S": "Sales"},
+                  "SongYear": {"S": "2022"}
+                }
+            }
+        }
+      ]
+}
